@@ -9,9 +9,9 @@ import matplotlib.pyplot as plt
 from sklearn.decomposition import PCA
 from uuid import uuid4
 
-EURI_API_KEY="euri-00352fc5056c47e4803387839829d66c209ba01f0f17cce53878cf590dc69059"
-EURI_CHAT_URL="https://api.euron.one/api/v1/euri/chat/completions"
-EURI_EMBED_URL="https://api.euron.one/api/v1/euri/embeddings"
+EURI_API_KEY=""Replace with your api key
+EURI_CHAT_URL=""Replace with chat url
+EURI_EMBED_URL=""Replace with embed url
 
 
 
