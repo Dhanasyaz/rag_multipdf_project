@@ -5,9 +5,9 @@ import requests
 import streamlit as st
 
 
-EURI_API_KEY="euri-00352fc5056c47e4803387839829d66c209ba01f0f17cce53878cf590dc69059"
-EURI_CHAT_URL="https://api.euron.one/api/v1/euri/chat/completions"
-EURI_EMBED_URL="https://api.euron.one/api/v1/euri/embeddings"
+EURI_API_KEY=""
+EURI_CHAT_URL=""
+EURI_EMBED_URL=""
 
 conversation_memory = []
 
